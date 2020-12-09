@@ -1,0 +1,33 @@
+
+
+[
+  
+  
+    
+    
+  
+  
+  
+  {
+    "title": "About",
+    "excerpt": "About the author\n",
+    "content": "I m a Senior Software Engineer working at Bank of America with over 3 years of experience in full-stack development.\n\nMy experience includes working with service-based and product-based industries. I have worked with Chevron, where I contributed to the development logistics of automation.\n\nI’m adept in technology stack such as MongoDB, SQL Server, NodeJs, ExpressJs, .Net, ReactJs &amp; AngularJs.\n\nI have a strong inclination to work towards Neural Networks and Natural Language Processing.\n\nApart from work, I love to create social awareness through my articles.\n\nContact me\n\nmeghagupta.0831@gmail.com\n",
+    "url": "/about/"
+  },
+  
+  {
+    "title": "Categories",
+    "excerpt": "Category index\n",
+    "content": "\n",
+    "url": "/categories/"
+  },
+  
+  {
+    "title": "Search",
+    "excerpt": "Search for a page or post you’re looking for\n",
+    "content": "{% include site-search.html %}\n",
+    "url": "/search/"
+  }
+  
+]
+
